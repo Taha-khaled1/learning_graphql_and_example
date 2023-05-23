@@ -1,16 +1,9 @@
 # qraphql
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sources
+You can find all endpoints here 
+https://studio.apollographql.com/public/SpaceX-pxxbxen/variant/current/home
+You can access the Graph Ql package and install it in the flutter project from here
+https://pub.dev/packages/graphql_flutter
+documentation for graphql
+https://graphql.org/
